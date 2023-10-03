@@ -4,7 +4,7 @@
 * Deciders: Jeffrey Attoh
 * Date: 2023-10-03
 
-Technical Story: Migration from Apigee to Azure API Management (APIM) Due to Contract Expiration
+Technical Story: Migrate from Apigee to Azure API Management (APIM) Due to Contract Expiration
 
 ## Context and Problem Statement
 
