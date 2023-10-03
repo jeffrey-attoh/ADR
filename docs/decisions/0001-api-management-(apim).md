@@ -26,7 +26,11 @@ The organization currently utilizes Apigee for API management. With our contract
 
 ## Decision Outcome
 
-Chosen option: "After evaluating the options based on our architectural drivers:  - **Chosen Option**: **API Management (APIM)**     - APIM provides a comprehensive solution tailored for extensive API management.     - It offers scalability, extensibility, and a favorable developer experience.     - The organization will have a robust API infrastructure in conjunction with Akamai for enhanced security.", because comes out best.
+"After evaluating the options based on our architectural drivers:  
+- **Chosen Option**: **API Management (APIM)**
+- - APIM provides a comprehensive solution tailored for extensive API management.
+- - It offers scalability, extensibility, and a favorable developer experience.
+- - The organization will have a robust API infrastructure in conjunction with Akamai for enhanced security.
 
 ### Positive Consequences
 
