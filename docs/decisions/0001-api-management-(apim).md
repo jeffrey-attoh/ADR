@@ -12,7 +12,7 @@ The organization currently utilizes Apigee for API management. With our contract
 
 ## Decision Drivers
 
-* - **Contractual Constraints**: Apigee's contract expiration necessitates this transition.
+- **Contractual Constraints**: Apigee's contract expiration necessitates this transition.
 - **Financial Considerations**: Cost-effectiveness of the new solution versus renewing the contract with Apigee.
 - **Scalability and Extensibility**: The new solution should cater to the organization's growth and future API needs.
 - **Security**: Enhanced security features, especially with increasing cyber threats.
@@ -21,7 +21,7 @@ The organization currently utilizes Apigee for API management. With our contract
 
 ## Considered Options
 
-* 1. **API Management (APIM)**: An integrated solution providing robust API management capabilities.
+1. **API Management (APIM)**: An integrated solution providing robust API management capabilities.
 2. **Akamai (with WAF capabilities)**: While primarily a content delivery network, Akamai offers security features and Web Application Firewall (WAF) capabilities which can secure ingress and protect our APIs.
 
 ## Decision Outcome
@@ -30,14 +30,14 @@ Chosen option: "After evaluating the options based on our architectural drivers:
 
 ### Positive Consequences
 
-* - **Seamless Transition**: With proper planning, the migration from Apigee to APIM can be smooth.
+- **Seamless Transition**: With proper planning, the migration from Apigee to APIM can be smooth.
 - **Enhanced Security**: Leveraging Akamai's WAF capabilities adds an extra layer of security.
 - **Cost Efficiency**: Possible cost savings compared to renewing the Apigee contract.
 - **Future-proofing**: APIM offers features that cater to future needs and growth.
 
 ### Negative Consequences
 
-* - **Migration Challenges**: Potential unforeseen issues during the migration process.
+- **Migration Challenges**: Potential unforeseen issues during the migration process.
 - **Learning Curve**: The team might need time to adapt to the new system.
 - **Integration Overhead**: Initial efforts will be required to integrate APIM with the current setup and ensure Akamai's compatibility.
 
